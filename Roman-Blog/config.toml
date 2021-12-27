@@ -1,0 +1,4 @@
+baseURL = 'http://www.blog.romanfedoruk.com'
+languageCode = 'en-us'
+title = 'Roman Blog'
+theme='PaperMod'

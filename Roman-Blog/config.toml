@@ -1,4 +1,4 @@
-baseURL = 'http://www.blog.romanfedoruk.com'
+baseURL = 'http://www.rfedoruk.tech'
 languageCode = 'en-us'
 title = 'Roman Blog'
 theme='PaperMod'

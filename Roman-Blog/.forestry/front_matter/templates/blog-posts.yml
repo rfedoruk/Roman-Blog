@@ -15,5 +15,3 @@ fields:
     schema:
       format: markdown
   label: Text Field
-pages:
-- Roman-Blog/content/posts/Forestry Test.md

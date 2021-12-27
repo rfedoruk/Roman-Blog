@@ -2,6 +2,10 @@
 label: Blog Posts
 hide_body: true
 fields:
+- name: titles_and_stuff
+  type: tag_list
+  default: []
+  label: Titles and stuff
 - name: text_field
   type: textarea
   default: ''

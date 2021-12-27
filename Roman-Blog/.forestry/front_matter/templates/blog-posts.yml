@@ -1,4 +1,13 @@
 ---
 label: Blog Posts
 hide_body: true
-fields: []
+fields:
+- name: text_field
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Text Field

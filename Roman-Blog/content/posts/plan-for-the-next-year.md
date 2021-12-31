@@ -6,7 +6,7 @@ title = "Plan for the next year"
 +++
 So, 2022. Big year I hope.
 
-Obviously I would like to improve in every area, but I think there are a few things I would like to put extra focus into. Those would be: fitness, programming, investing/crypto/business, and my spiritual life. The biggest thing is just getting better habits and when problems do come up, to just course correct instead of just giving up completely. 
+Obviously I would like to improve in every area, but I think there are a few things I would like to put extra focus into. Those would be: _fitness, programming, investing/crypto/business, and my spiritual life_. The biggest thing is just getting better habits and when problems do come up, to just course correct instead of just giving up completely. 
 
 I am also going to be deleting Instagram and TikTok, at least for the first few months of the year. 
 
@@ -30,4 +30,19 @@ I also want to wake up at the same time every morning, and I want to wake up ear
 
 I think the only viable solution is prioritize enough sleep, if I want to wake up at 5am every morning but I get home at 3 then it is not worth the consistency to sacrifice sleep like that. Probably best solution is to try to have the same morning routine no matter when I wake up. So, the rule is if I am able to, I will wake up at 5:15, if I can't then it is what it is. I think the cutoff will be if I am not asleep by 12:00, then just try to get at least 7 and a half hours of sleep, if before 12:00, then wake up 5:15. Obviously all of this is subject to change, but I want to try it consistently for a month at least before giving up on it.
 
- 
+So what is the morning routine? Here is what I'm thinking: 
+
+* Wake up 5:15
+* Immediately get feet on the ground, I'm tired of laying in bed for an hour, just get up. 
+* Get on scale and record weight. 
+* Drink some water, and get downstairs. 
+* Read the bible for 15-20 minutes while eating the overnight oats that I should have prepared the preceding evening. 
+* Come upstairs, sit down at desk and read non fiction book for 20-30 minutes, review what I have to get done that day, and get to work. 
+
+So should take roughly an hour, if the day is a gym day then I immediately leave to go to the gym. 
+
+#### Programming
+
+ Programming, pretty cool stuff. 
+
+So in the first two months I want to finish the code academy full stack course, just so that I have a good idea of how the whole stack works and am able to make a full stack app. 

@@ -60,3 +60,22 @@ Although I am focusing a lot on learning and education, I also want to make move
 #### Spiritual Life
 
 Also not much to write here, try to make a habit of reading the bible every morning, find good sermons and books to read about belief and stuff. Just be better at this, more thoughtful. 
+
+### Bulleted List
+
+So, to boil down what I wrote above into an easy to reference for me list: 
+
+* Figure out a morning routine, stick to it.
+  * Eat same thing every morning, figure out a nutrition plan, maybe meal prep every Sunday for lunch throughout the week, and overnight oats before the gym, and then some sort of breakfast after that. Probably would be nice to meal prep a lunch meal as well.
+* Try to wake up at 5:15 every day. When situations arise where I have to wake up later, do not get discouraged, still do morning routine if possible. 
+* Build workout routine, stick to it for 8 weeks, take a week off and reassess, also weigh in every day and do some rough ish calorie counting. 
+* Program for at least an hour a day. 
+* Delete social media for at least a few months, except twitter cause stocks or whatever. 
+* Keep investing long term, keep learning
+* Try to read the bible every day, try to keep learning about Christianity and belief. 
+
+Every year previous to this I have tried to set rigorous goals and such, I never end up hitting them, I think just focusing on building the systems and habits that I would like to have in my life is a better idea than setting hard goals and deadlines. Time will tell, will try to update this next December. 
+
+Oh! Almost forgot, I want to try to write at least once a week on here, well and maybe medium as well so that there is a greater chance people may actually find it and read it. 
+
+ 

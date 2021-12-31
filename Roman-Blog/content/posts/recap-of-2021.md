@@ -1,6 +1,5 @@
 +++
 date = 2021-12-28T05:00:00Z
-draft = true
 title = "Recap of 2021"
 
 +++

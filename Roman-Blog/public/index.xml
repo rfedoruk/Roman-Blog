@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roman Blog</title>
+    <link>http://www.rfedoruk.tech/</link>
+    <description>Recent content on Roman Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Dec 2021 05:00:00 +0000</lastBuildDate><atom:link href="http://www.rfedoruk.tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recap of 2021</title>
+      <link>http://www.rfedoruk.tech/posts/recap-of-2021/</link>
+      <pubDate>Tue, 28 Dec 2021 05:00:00 +0000</pubDate>
+      
+      <guid>http://www.rfedoruk.tech/posts/recap-of-2021/</guid>
+      <description>So, a sort of comprehensive recap of my 2021.
+Overall it was a very interesting and formative year for me. There were plenty of ups and downs but I definitely learned a lot. One of the most interesting things that I have noticed is that there was some sort of mental click towards the latter part of the year. It&amp;rsquo;s hard to describe but it feels like I have become more calm, patient, emotionally stable, and interestingly enough I am also more confident.</description>
+    </item>
+    
+    <item>
+      <title>FirstPost</title>
+      <link>http://www.rfedoruk.tech/posts/firstpost/</link>
+      <pubDate>Mon, 27 Dec 2021 15:07:48 -0500</pubDate>
+      
+      <guid>http://www.rfedoruk.tech/posts/firstpost/</guid>
+      <description>Test! </description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>http://www.rfedoruk.tech/posts/introduction/</link>
+      <pubDate>Mon, 27 Dec 2021 05:00:00 +0000</pubDate>
+      
+      <guid>http://www.rfedoruk.tech/posts/introduction/</guid>
+      <description>Ok, so this is an explanation for what I want this blog to be.
+Over the past year or so I have noticed a bit of a disconnect. I am able to think pretty well, like in my brain I feel like I can articulate myself fairly well.
+When I open my mouth and try to say something however, all of that clear articulation is lost, I sound kind of stupid and am not able to really say things the way that I want to say them.</description>
+    </item>
+    
+  </channel>
+</rss>

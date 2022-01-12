@@ -5,3 +5,6 @@
 	path = Roman-Blog/public
 	url = https://github.com/rfedoruk/Blog-Production-Repo.git
 	branch = main
+[submodule "Roman-Blog/public/Blog-Production-Repo"]
+	path = Roman-Blog/public/Blog-Production-Repo
+	url = https://github.com/rfedoruk/Blog-Production-Repo.git
